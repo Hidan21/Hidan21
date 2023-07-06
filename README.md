@@ -1,3 +1,5 @@
+![Imagen del proyecto](/1675786136341.jpeg)
+
 <h1 align="center">Hola 👋  soy Daniel Gil  </h1> 
 
 
