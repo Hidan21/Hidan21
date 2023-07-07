@@ -16,7 +16,7 @@
 Desarrollador front-end autodidacta dedicado a aprender cómo desarrollar páginas web desde cero utilizando HTML, CSS, Javascript, React y Wordpress entre otras tecnologias con el objetivo mejorar mis habilidades como desarrollador 
 
 
-
+## 👉 TECNOLOGIAS APRENDIDAS
 
 <p align="center">
   <a href="https://skillicons.dev">
