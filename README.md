@@ -20,7 +20,7 @@ Desarrollador front-end autodidacta dedicado a aprender cómo desarrollar págin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,firebase,react,vite,nodejs,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,firebase,react,vite,nodejs,git,github,wordpress" />
   </a>
 </p>
 <!--
